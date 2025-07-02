@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { PATHS, withChildNavigation } from '../core/navigation';
+import { PATHS, withChildNavigation } from '../core/navigation/navigation';
 
 export const searchRoutes: Routes = [
   {
