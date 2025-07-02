@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { PATHS } from '../core/navigation';
+import { PATHS } from '../core/navigation/navigation';
 
 export const routes: Routes = [
   {
